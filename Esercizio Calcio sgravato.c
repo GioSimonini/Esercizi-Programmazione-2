@@ -2,8 +2,11 @@
 #include <stdlib.h>
 #include <string.h>
 /*Creare una struct di calciatori con Nome,Cognome,Anno,Numero Maglia,Valore
-  (MLN) Screare una lista per aggiungere e Stampare i calciatori Usare la malloc
-  e la realloc Scrivere in un file tutti i dati
+  (MLN)
+  creare una lista per aggiungere e Stampare i calciatori Usare la malloc
+  e la realloc 
+  Scrivere in un file tutti i dati
+  funzione Modifica Calciatori ed elimina calciatori
 */
 
 struct calciatore {
